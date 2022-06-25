@@ -1,6 +1,7 @@
 <img align="right" alt="coding" width="350" src="https://i.ibb.co/Mkjg2y8/122.gif">
 <h1 align="center">Hello, I'm Proloy Chacroborty</h1>
 <h3 align="center">A passionate Web developer from Dhaka, Bangladesh!</h3>
+
 ![Profile views](https://gpvc.arturio.dev/Proloycb)  
 
 - 💬 Ask me about React, JavaScript, Node and any Project. 
@@ -35,15 +36,15 @@
 **Github Readme Stats:** <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">
  </br>
  <p align="center">
-  <a href="https://github.com/netstermonir">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=netstermonir&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/Proloycb">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Proloycb&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/netstermonir/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=netstermonir&layout=compact&theme=radical&langs_count=6" />
+  <a href="https://github.com/Proloycb/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Proloycb&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=netstermonir&theme=radical&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Proloycb&theme=radical&hide_border=true"/>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Proloycb)](https://github.com/ryo-ma/github-profile-trophy)
