@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Proloy Chacroborty</h1>
 <h3 align="center">A passionate Web developer from Dhaka, Bangladesh!</h3>
 
-![Profile views](https://gpvc.arturio.dev/Proloycb)  
+   ![Profile views](https://gpvc.arturio.dev/Proloycb)  
 
 - 💬 Ask me about React, JavaScript, Node and any Project. 
 - 📫 How to reach me: proloychacroborty@gmail.com 
