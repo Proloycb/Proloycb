@@ -1,7 +1,6 @@
+<img alt="coding" width="350" src="https://i.ibb.co/Mkjg2y8/122.gif">
 # Hi there 👋, I'm Proloy
 ## A passionate Web developer from Dhaka, Bangladesh
-![A passionate Web developer from Dhaka, Bangladesh]
-(https://camo.githubusercontent.com/f8fb6e12c02d9f7160f1e67722d0392b3cdb2eabf31ec73400afd53bcab10295/68747470733a2f2f692e6962622e636f2f4d6b6a673279382f3132322e676966)
 
 Skills: REACT / JS / HTML / CSS/ Node
 
