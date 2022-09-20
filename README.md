@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="coding" width="100%" height="300px" src="https://i.ibb.co/Mkjg2y8/122.gif">
+<img align="center" alt="coding" width="100%" height="400px" src="https://i.ibb.co/Mkjg2y8/122.gif">
 </div> 
 <h1 align="center">Hello, I'm Proloy Chacroborty</h1>
 <h3 align="center">A passionate Web developer from Dhaka, Bangladesh!</h3>
