@@ -56,6 +56,7 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Proloycb&theme=radical&hide_border=true"/>
 </p>
 
+### Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Proloycb)](https://github.com/ryo-ma/github-profile-trophy)
 
 [portfolio]: https://proloycb.netlify.app/
