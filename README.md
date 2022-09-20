@@ -8,9 +8,9 @@
 
 - 💬 Ask me about React, JavaScript and anything related web development. 
 - 📫 How to reach me: proloychacroborty@gmail.com 
-- 👨‍💻 All of my projects are available at [https://proloycb.netlify.app/](https://proloycb.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://proloycb.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V8lEo8N9VutvhXzPvRl-9IzTXXGcFms0/view?usp=sharing](https://drive.google.com/file/d/1V8lEo8N9VutvhXzPvRl-9IzTXXGcFms0/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1V8lEo8N9VutvhXzPvRl-9IzTXXGcFms0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
