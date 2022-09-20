@@ -2,7 +2,7 @@
 <img align="center" alt="coding" width="100%" height="400px" src="https://i.ibb.co/Mkjg2y8/122.gif">
 </div> 
 <h1 align="center">Hello, I'm Proloy Chacroborty</h1>
-<h3 align="center">A passionate Web developer from Dhaka, Bangladesh!</h3>
+<h3 align="center">A passionate Web developer from Kishoreganj, Bangladesh!</h3>
 
    ![Profile views](https://gpvc.arturio.dev/Proloycb)  
 
@@ -56,7 +56,7 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Proloycb&theme=radical&hide_border=true"/>
 </p>
 
-### Trophy
+### Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Proloycb)](https://github.com/ryo-ma/github-profile-trophy)
 
 [portfolio]: https://proloycb.netlify.app/
